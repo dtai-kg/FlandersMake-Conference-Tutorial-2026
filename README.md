@@ -12,4 +12,5 @@ Then the tutorial explores:
 ## Contact
 
 Ioannis Dasoulas: ioannis.dasoulas@kuleuven.be
+
 Anastasia Dimou: anastasia.dimou@kuleuven.be
