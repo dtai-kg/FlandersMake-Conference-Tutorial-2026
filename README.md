@@ -11,9 +11,7 @@ Then the tutorial explores:
 
 ## Tutorial Slides
 
-Tutorial slides are provided at: 
-
-    FM Tutorial.pptx
+Tutorial slides are provided at: [FM Tutorial.pptx](https://github.com/dtai-kg/FlandersMake-Conference-Tutorial-2026/blob/main/FM%20Tutorial.pptx)
 
 ## Contact
 
