@@ -9,6 +9,12 @@ Then the tutorial explores:
 
     pip install autorml
 
+## Tutorial Slides
+
+Tutorial slides are provided at: 
+
+    FM Tutorial.pptx
+
 ## Contact
 
 Ioannis Dasoulas: ioannis.dasoulas@kuleuven.be
